@@ -1,0 +1,11 @@
+Bulan,Jumlah,Total,Pembayaran Cash
+Mei,44,72000,Yes
+Juli,87,50000,Yes
+Juni,30,44000,No
+Mei,78,69000,No
+Juli,40,,Yes
+Juni,25,50000,Yes
+Mei,,62000,No
+Juni,48,69000,Yes
+Juli,60,89000,No
+Mei,37,37000,Yes
